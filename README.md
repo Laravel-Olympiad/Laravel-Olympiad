@@ -1,6 +1,6 @@
 ### 🌟 **Laravel Olympiad**
 
-**Launched by Md Nazmul Huda & Md Saiful Islam on March 11, 2025**
+**Launched by Md Nazmul Huda & Md Saiful Islam, co-founders of Doofaz IT Limited on March 11, 2025**
 
 The **Laravel Olympiad** is a pioneering initiative launched by **Md Nazmul Huda** and **Md Saiful Islam** on **March 11, 2025**, with the vision to elevate the Laravel developer community through innovation, collaboration, and competitive learning.
 
